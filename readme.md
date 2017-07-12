@@ -11,7 +11,7 @@
     2、存在直接设置，不存在自动生成，推荐不使用;
     3、通过window.devicePixelRatio获取屏幕的屏幕像素比;
     4、根据屏幕的尺寸，通过 document.documentEliment.getBoundingClientRect().width获取屏幕宽度;
-    5、设置document.documentEliment.style.fontSize值;
+    5、设置document.documentElement.style.fontSize值;
     6、设置document.body.style.fontSize ;
     7、提供一些方法;
     
